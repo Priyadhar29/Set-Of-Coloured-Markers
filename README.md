@@ -28,7 +28,7 @@ This project is part of the **FreeCodeCamp Responsive Web Design Certification**
 ---
 ## ✅ Live Demo
 
-View Project on GitHub Pages (https://priyadhar29.github.io/Set-Of-Coloured-Markers/)
+[View Project on GitHub Pages] (https://priyadhar29.github.io/Set-Of-Coloured-Markers/)
 
 ---
 
